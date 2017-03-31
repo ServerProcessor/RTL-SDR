@@ -8,3 +8,8 @@
 8- To digitalize higher frequency signals we need an IF mixer stage to convert all received frequencies down to the frequencies that the ADC can use which is the job of the tuner chip(R820T)
 9- It uses I/Q samlpling where 2 ADCs are used
 10- Poor crystal tolerances
+
+Pulse Code Modulation
+
+1- It is a signal processing techique to digitally represent analog signals.
+2- 8000Hz is the sampling rate of telephone and encrypted walkie-talkie and wireless microphone transmission and 44100 Hz for CD audios and 48000 Hz for DVDs.
