@@ -13,3 +13,9 @@ Pulse Code Modulation
 
 1- It is a signal processing techique to digitally represent analog signals.
 2- 8000Hz is the sampling rate of telephone and encrypted walkie-talkie and wireless microphone transmission and 44100 Hz for CD audios and 48000 Hz for DVDs.
+
+What is RF Gain ?
+
+Noise interferes with signals and it comes from the atmosphere, other nearby channels that overlap slightly, and environmental 
+surroundings. To counteract noise, RF gain acts as a sensitivity filter. It reduces noise in the receiver without reducing
+reception power as a CB radio squelch does.
